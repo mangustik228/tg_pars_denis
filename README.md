@@ -17,3 +17,4 @@ CHANNEL_URL=@example_channel
 ```
 
 `SEND_TO_CHANNEL` - можно указать номер телефона, указать `me` или указать канал
+`TELEGRAM_SESSION_NAME` - произвольное название для сессии
